@@ -5,9 +5,9 @@ I enjoy working on systems that are reliable, scalable and well-designed, and Iâ
 especially in healthcare and media platforms. I'm also happy when I deal with Iron (il ferro).
 
 Skills & Technologies
-Languages: Python, C++, Java, PHP, C, C#, SQL
+Languages: C++, Python, PHP, C, Java, C#, SQL
 
-Backend/Web: PHP/MySQL, Java Servlets, REST APIs, JSON, HTML, CSS, HTTP
+Backend/Web: PHP/MySQL, Java Servlets, REST APIs, HTML, CSS, HTTP, JSON
 
 Cloud & Infra: Linux, Docker, Git, Azure fundamentals
 
