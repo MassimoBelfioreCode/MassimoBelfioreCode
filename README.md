@@ -11,7 +11,7 @@ Backend/Web: PHP/MySQL, Java Servlets, REST APIs, JSON, HTML, CSS, HTTP,
 
 Cloud & Infra: Linux, Docker, Git, Azure fundamentals
 
-Data & Analytics: MySQL, SQL Server, Pandas, NumPy
+Data & Analytics: MySQL, SQL Server, Pandas, NumPy, Matplotlib, Scipy
 
 Other: Microcontrollers (STM32), basic electronics
 
