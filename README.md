@@ -1,36 +1,59 @@
-Hi, I'm Massimo Belfiore :)
+---
+👤 Profile
+# Hi, I'm Massimo Belfiore :)
+---
 
-I'm a Computer Science student from Catania with a strong interest in Site Reliability Engineering, Cloud Engineering, Distributed Systems, and Generative AI.
-I enjoy working on systems that are reliable, scalable and well-designed, and I’m motivated by the idea of using technology to improve real-world services,
-especially in healthcare and media platforms. I'm also happy when I deal with Iron (il ferro).
+I'm a Computer Science student from Catania with a strong interest in Site Reliability Engineering, Cloud Engineering, Distributed Systems, and Generative AI.  
+I enjoy working on systems that are reliable, scalable, and well-designed, and I'm motivated by the idea of using technology to improve real-world services — especially in **media platforms** and **healthcare**.
 
-Skills & Technologies
-Languages: C++, Python, PHP, C, Java, C#, SQL
+I also love working with hardware and low-level systems (and yes… I’m happy when I deal with Iron (il ferro) 😄).
 
-Backend/Web: PHP/MySQL, Java Servlets, REST APIs, HTML, CSS, HTTP, JSON
+---
 
-Cloud & Infra: Linux, Docker, Git, Azure fundamentals
+## 🔧 Skills & Technologies
 
-Data & Analytics: MySQL, SQL Server, Pandas, NumPy, Matplotlib, Scipy
+**Languages:** C++, Python, PHP, C, Java, C#, SQL  
+**Backend / Web:** PHP/MySQL, Java Servlets, REST APIs, HTML, CSS, HTTP, JSON  
+**Cloud & Infra:** Linux, Docker, Git, Azure Fundamentals  
+**Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy  
+**Other:** STM32 microcontrollers, basic electronics
 
-Other: Microcontrollers (STM32), basic electronics
+---
 
-Selected Projects
-- MySQL Recipe Platform – full relational database design.
-- C++ Data Structures – custom implementations of lists, stacks, trees.
-- Autogen 0.2 Seminar – technical presentation on LLM agent frameworks.
-- Arduino Spectrum Analyzer – audio signal processing with microcontrollers.
+## 💻 Main Projects
 
-Find them all in my pinned repositories.
+- **MySQL Recipe Platform** — full relational database design.  
+- **C++ Data Structures** — custom implementations of lists, stacks, and trees.  
+- **Autogen 0.2 Seminar** — technical presentation on LLM agent frameworks.  
+- **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
 
-Concepts & Ideas
-- **Domain-Specific LLM Concept** – I conceived an original idea for a domain-specific LLM based on Transformer architecture. The project is currently in the conceptual phase, focusing on Transfer Learning and specialized applications. The model is designed to bring a unique identity and approach, distinguishing it from existing solutions in the market. The model has a unique and meaningful name that reflects its distinct approach and identity in the LLM landscape.
-Excited by the idea of implementing it collaboratively with a team with the goal of solving real problems.
+**You can find all of them in my pinned repositories**!
 
-What I'm Looking For
-Internships in Cloud / SRE, Generative AI applications, Backend or API development.
-I like environments where I can learn fast, automate what can be automated, and contribute to building reliable systems.
+---
 
-Contacts
-Email: massimobelfiore1999@gmail.com
-Telegram: @Codewalker23
+## 💡 Concepts & Ideas
+
+### Domain-Specific LLM Concept  
+I have designed the concept for a domain-specific Transformer-based LLM, currently in the early stage of exploration.
+
+The idea focuses on:
+- a **decoder-centric architecture**,  
+- **transfer learning** on a specialized knowledge domain,  
+- and a **unique model identity** with a meaningful, original name that reflects its purpose and philosophy.
+
+This is still a conceptual project, but I’m excited by the idea of developing it collaboratively within a team, transforming it from a vision into a real, applied system that solves concrete problems.
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently looking for **internships**
+
+I love environments where I can **learn fast**, and contribute to building **reliable and meaningful systems**.
+
+---
+
+## 📫 Contacts
+
+- **Email:** massimobelfiore1999@gmail.com  
+- **Telegram:** @Codewalker23
