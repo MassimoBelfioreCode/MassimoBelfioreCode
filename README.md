@@ -1,6 +1,5 @@
 ---
-👤 Profile
-# Hi, I'm Massimo Belfiore :)
+👤 # Hi, I'm Massimo Belfiore :)
 ---
 
 I'm a Computer Science student from Catania with a strong interest in Site Reliability Engineering, Cloud Engineering, Distributed Systems, and Generative AI.  
