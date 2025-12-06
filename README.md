@@ -5,7 +5,7 @@ Cloud Engineering, Distributed Systems, and Generative AI.
 I enjoy working on systems that are reliable, scalable and well-designed,
 and I’m motivated by the idea of using technology to improve real-world services,  
 especially in healthcare and media platforms. 
-I'm also happy when I deal with the Iron (il ferro).
+I'm also happy when I deal with Iron (il ferro).
 
 
 Skills & Technologies
