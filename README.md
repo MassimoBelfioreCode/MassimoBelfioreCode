@@ -21,11 +21,11 @@ Selected Projects
 - Autogen 0.2 Seminar – technical presentation on LLM agent frameworks.
 - Arduino Spectrum Analyzer – audio signal processing with microcontrollers.
 
+Find them all in my pinned repositories.
+
 Concepts & Ideas
 - **Domain-Specific LLM Concept** – I conceived an original idea for a domain-specific LLM based on Transformer architecture. The project is currently in the conceptual phase, focusing on Transfer Learning and specialized applications. The model is designed to bring a unique identity and approach, distinguishing it from existing solutions in the market. The model has a unique and meaningful name that reflects its distinct approach and identity in the LLM landscape.
 Excited by the idea of implementing it collaboratively with a team for solving real problems.
-
-Find them all in my pinned repositories.
 
 What I'm Looking For
 Internships in Cloud / SRE, Generative AI applications, Backend or API development, Health Informatics.
