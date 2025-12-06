@@ -3,7 +3,7 @@
 ---
 
 I'm a Computer Science student from Catania with a strong interest in Site Reliability Engineering, Cloud Engineering, Distributed Systems, and Generative AI.  
-I enjoy working on systems that are reliable, scalable, and well-designed, and I'm motivated by the idea of using technology to improve real-world services — especially in **Streaming/OTT platforms**, **healthcare** and **telco**.
+I enjoy working on systems that are reliable, scalable, and well-designed, and I'm motivated by the idea of using technology to improve real-world services — especially in **Streaming/OTT platforms**, **healthcare**, **telco** and **automotive**.
 
 I also love working with hardware and low-level systems (and yes… I’m happy when I deal with Iron (il ferro) 😄).
 
