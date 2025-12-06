@@ -28,7 +28,7 @@ Concepts & Ideas
 Excited by the idea of implementing it collaboratively with a team for solving real problems.
 
 What I'm Looking For
-Internships in Cloud / SRE, Generative AI applications, Backend or API development, Health Informatics.
+Internships in Cloud / SRE, Generative AI applications, Backend or API development.
 I like environments where I can learn fast, automate what can be automated, and contribute to building reliable systems.
 
 Contacts
