@@ -7,7 +7,7 @@ especially in healthcare and media platforms. I'm also happy when I deal with Ir
 Skills & Technologies
 Languages: Python, C++, Java, PHP, C, C#, SQL
 
-Backend/Web: PHP/MySQL, Java Servlets, REST APIs, JSON, HTML, CSS, HTTP,
+Backend/Web: PHP/MySQL, Java Servlets, REST APIs, JSON, HTML, CSS, HTTP
 
 Cloud & Infra: Linux, Docker, Git, Azure fundamentals
 
