@@ -12,9 +12,9 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 ## 🔧 Skills & Technologies
 
 **Languages:** C++, Python, PHP, C, Java, C#, SQL  
-**Backend / Web:** PHP/MySQL, Java Servlets, REST APIs, HTML, CSS, HTTP, JSON  
+**Backend / Web:** PHP/MySQL, Java Servlets, REST APIs, HTML, CSS, HTTP, JSON
 **Cloud & Infra:** Linux, Docker, Git, Azure foundational concepts, Architecture and management,IaaS
-**Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy  
+**Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy
 **Other:** STM32 microcontrollers, basic electronics
 
 ---
