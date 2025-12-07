@@ -16,7 +16,6 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 **Cloud & Infra:** Linux, Docker, Git, Azure foundational concepts, Architecture and management,IaaS
 **Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy
 **Other:** STM32 microcontrollers, basic electronics
-
 ---
 
 ## 💻 Main Projects
