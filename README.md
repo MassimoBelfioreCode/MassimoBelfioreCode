@@ -38,13 +38,13 @@ int main(int argc, char** argv){
 
 char message[] = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it as it fits good with this";
     
-goto Cplusplus_project;
+goto cplusplusProject;
     
-Cplusplus_project:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode ;
+cplusplusProject:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode ;
     
-goto arduino_audio_project;
+goto arduinoAudioProject;
     
-arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf ;
+arduinoAudioProject:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf ;
   
 std::cout << message;
     
