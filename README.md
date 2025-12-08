@@ -40,11 +40,11 @@ char message[] = "I know that goto instruction is dangerous, deprecated and mean
     
 goto Cplusplus_project;
     
-Cplusplus_project:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode
+Cplusplus_project:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode ;
     
 goto arduino_audio_project;
     
-arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf
+arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf ;
   
 std::cout << message;
     
