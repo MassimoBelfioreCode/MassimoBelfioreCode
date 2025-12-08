@@ -36,7 +36,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 int main(int argc, char** argv){
 
-char message[] = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it fit good with this xd";
+char message[] = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it as it fit good with this xd";
     
 goto Cplusplus_project;
     
