@@ -33,6 +33,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 **You can find some of them in my pinned repositories, and others at the following links**:
 
 #include <iostream>
+
 int main(int argc, char** argv){
 
   char message = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it fit good with this xd";
@@ -46,6 +47,7 @@ int main(int argc, char** argv){
   arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf
 
   std::cout << message;
+  
   return 0;  //compile time error for sure, xD
 }
 
