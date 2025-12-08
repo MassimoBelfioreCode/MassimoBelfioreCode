@@ -36,19 +36,19 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 int main(int argc, char** argv){
 
-    char message[] = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it fit good with this xd";
+char message[] = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it fit good with this xd";
     
-    goto Cplusplus_project;
+goto Cplusplus_project;
     
-    Cplusplus_project:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode
+Cplusplus_project:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode
     
-    goto arduino_audio_project;
+goto arduino_audio_project;
     
-    arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf
+arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf
   
-    std::cout << message;
+std::cout << message;
     
-    return 0;  //compile time error for sure, xD
+return 0;  //compile time error for sure, xD
   
 }
 
