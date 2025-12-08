@@ -30,7 +30,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 - **Autogen 0.2 Seminar** — technical presentation on LLM agent frameworks.  
 - **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
 
-**You can find some of them in my pinned repositories, and others at the following links**:
+**You can find some of them in my pinned repositories, and the others at the following links**:
 
 #include <iostream<iostream>>
 
