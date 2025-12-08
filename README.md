@@ -26,11 +26,18 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 ## 💻 Main Projects
 
 - **MySQL Recipe Platform** — full relational database design plus one web page in php.
-- **C++ Data Structures** — custom implementations of lists, stacks, and trees.  
+- **C++ Data Structures** — custom implementations of lists, stacks, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM agent frameworks.  
 - **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
 
-**You can find them in my pinned repositories**!
+**You can find some of them in my pinned repositories, and others at the following links**:
+goto Cplusplus_project;
+
+Cplusplus_project:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode
+
+goto arduino_audio_project;
+
+arduino_audio_project:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf
 
 ---
 
