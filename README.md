@@ -78,5 +78,4 @@ I love environments where I can learn fast and contribute to building reliable, 
 
 ## 📫 Contacts
 
-- **Email:** massimobelfiore1999@gmail.com  
-- **Telegram:** @Codewalker23
+- **Email:** massimobelfiore1999@gmail.com
