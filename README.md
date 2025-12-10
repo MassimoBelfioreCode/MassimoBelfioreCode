@@ -40,15 +40,17 @@ int main(int argc, char** argv){
 char message[] = "I know that goto instruction is dangerous, deprecated and means "Spaghetti Code" but let me use it as it fits good with this";
     
 goto cplusplusProject;
-    
+
 cplusplusProject:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode ;
-    
-goto arduinoAudioProject;
-    
-arduinoAudioProject:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf ;
-  
+
 std::cout << message;
-    
+
+goto arduinoAudioProject;
+
+std::cout << "\n";
+
+arduinoAudioProject:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf ;
+
 return 0;  //compile time error for sure, xD
   
 }
