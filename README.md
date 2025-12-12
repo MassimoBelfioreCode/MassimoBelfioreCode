@@ -14,7 +14,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 **Languages:** C++, Python, PHP, C, Java, C#, SQL
 
-**Backend / Web:** PHP/MySQL, Java Servlets, REST APIs, HTML, CSS, HTTP, JSON, Laravel (basics)
+**Backend / Web:** PHP/MySQL, HTML, CSS, HTTP, Java Servlets, REST APIs, JSON, Laravel (basics)
 
 **Cloud & Infra:** Linux, Docker, Git, Azure foundational concepts, Architecture and management,IaaS
 
