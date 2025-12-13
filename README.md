@@ -28,7 +28,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 - **MySQL Recipe Platform** — full relational database design plus one web page in php.
 - **C++ Data Structures** — custom implementations of lists, stacks, and trees.
-- **Autogen 0.2 Seminar** — technical presentation on LLM agent frameworks.  
+- **Autogen 0.2 Seminar** — technical presentation on LLM agent framework.  
 - **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
 
 **You can find some of them in my pinned repositories, and the others at the following links**:
