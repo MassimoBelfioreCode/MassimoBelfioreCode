@@ -12,7 +12,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 ## 🔧 Skills & Technologies
 
-**Languages:** C++, Python, PHP, C, Java, C#, SQL
+**Languages:** C++, Python, PHP, C, Java, SQL
 
 **Backend / Web:** PHP/MySQL, HTML, CSS, HTTP, Java Servlets, REST APIs, JSON, Laravel (basics)
 
