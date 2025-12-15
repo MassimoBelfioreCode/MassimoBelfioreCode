@@ -20,7 +20,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 **Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy
 
-**Other:** STM32 microcontrollers, Arduino, basic electronics
+**Embedded Systems:** STM32 microcontrollers, Arduino, basic electronics
 
 ---
 
