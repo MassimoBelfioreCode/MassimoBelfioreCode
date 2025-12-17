@@ -16,7 +16,7 @@ I also love working with hardware and low-level systems (and yes… I’m happy 
 
 **Backend / Web:** PHP/MySQL, HTML, CSS, HTTP, Java Servlets, REST APIs, JSON, Laravel (basics)
 
-**Cloud & Infra:** Linux, Git, Azure foundational concepts, Architecture and management,IaaS, Docker
+**Cloud & Infra:** Linux, Git, Azure foundational concepts, Architecture and management, IaaS, Docker
 
 **Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy
 
