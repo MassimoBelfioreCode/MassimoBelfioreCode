@@ -2,7 +2,7 @@
 👤 # Hi, I'm Massimo Belfiore :)
 ---
 
-I'm a Computer Science student from Catania with a strong interest in Site Reliability Engineering, Cloud Engineering, Distributed Systems, and Generative AI.  
+I'm a Computer Science student from Catania with a strong interest in Distributed Systems and Artificial Intelligence.
 I enjoy working on systems that are reliable, scalable, and well-designed, and I'm motivated by the idea of using technology to improve real-world services -
 especially in **Streaming/OTT platforms**, **enterprise**, **healthcare**, **telco**, **automotive**.
 
