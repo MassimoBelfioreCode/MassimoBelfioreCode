@@ -10,20 +10,6 @@ I also love working with low-level systems (and yes… I’m happy even when I d
 
 ---
 
-## 🔧 Skills & Technologies
-
-**Languages:** C++, Python, PHP, C, Java, SQL, Processing
-
-**Backend / Web:** PHP/MySQL, HTML, CSS, HTTP, Java Servlets, REST APIs, JSON, Laravel (basics), VS Code
-
-**Cloud & Infra:** Linux, Git, Microsfot Azure (foundational concepts, Architecture and management, IaaS), Docker
-
-**Data & Analytics:** MySQL, SQL Server, Pandas, NumPy, Matplotlib, SciPy, Github Copilot
-
-**Embedded Systems:** STM32 microcontrollers, Arduino, basic electronics
-
----
-
 ## 💻 Main Projects
 
 - **MySQL Recipe Platform** — full relational database design plus one web page in php.
