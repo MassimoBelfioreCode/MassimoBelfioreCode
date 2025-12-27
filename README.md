@@ -12,7 +12,7 @@ I also love working with low-level systems (and yes… I’m happy even when I d
 
 ## 💻 Main Projects
 
-- **MySQL Recipe Platform** — full relational database design plus one web page in php.
+- **MySQL Recipe Platform** — full relational database design plus a web page in php that shows recipe of the day.
 - **C++ Data Structures Collection** — custom implementations of lists, stacks, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM agent framework.  
 - **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
