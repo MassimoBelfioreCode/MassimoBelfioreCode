@@ -9,7 +9,7 @@ I am curious and I enjoy studying and learning new things.
 
 ## 💻 Main Projects
 
-- **MySQL Recipe Platform** — full relational database design plus a web page in php that shows recipe of the day.
+- **MySQL Recipe Platform** — full relational database design plus a web page in php that shows the recipe of the day.
 - **C++ Data Structures Collection** — custom implementations of lists, stacks, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM agent framework.  
 - **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
