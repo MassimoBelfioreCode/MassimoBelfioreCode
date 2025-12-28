@@ -3,10 +3,7 @@
 ---
 
 I'm BSc Computer Science student from Catania with a strong interest in Big Data Analytics, Distributed Systems & Cloud Computing, and AI.
-I enjoy working on systems that are reliable, scalable, and well-designed, and I'm motivated by the idea of using technology to improve real-world services -
-especially in **Streaming/OTT platforms**, **enterprise**, **healthcare**, **telco**, **automotive**.
-
-I also love working with low-level systems (and yes… I’m happy even when I deal with Iron (il ferro) 😄).
+I am curious and I enjoy studying and learning new things.
 
 ---
 
