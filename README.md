@@ -60,8 +60,7 @@ This is still a conceptual project, but I’m excited by the idea of developing 
 
 I'm currently looking for **internships**
 
-I love environments where I can learn fast and contribute to building reliable, scalable, blinded and meaningful systems with zero downtime.
-
+I love environments where I can learn fast.
 ---
 
 ## 📫 Contacts
