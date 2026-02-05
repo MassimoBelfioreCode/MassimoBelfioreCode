@@ -2,7 +2,7 @@
 👤 # Hi, I'm Massimo Belfiore :)
 ---
 
-I'm BSc Computer Science student from Catania with a strong interest in Big Data Analytics, Distributed Systems & Cloud Computing, and AI.
+I'm BSc Computer Science student from Catania with a strong interest in Big Data Analytics, Embedded Systems, Cloud Computing, and AI.
 I am curious and I enjoy studying and learning new things.
 
 ---
