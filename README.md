@@ -3,7 +3,7 @@
 ---
 
 I'm BSc Computer Science student from Catania with a strong interest in Big Data Analytics, Embedded Systems, Cloud Computing, and AI.
-I am curious and I enjoy studying and learning new things.
+I'm curious and I enjoy studying and learning new things.
 
 ---
 
