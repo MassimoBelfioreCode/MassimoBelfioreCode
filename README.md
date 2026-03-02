@@ -42,20 +42,6 @@ return 0;  //compile time error for sure, xD
 
 ---
 
-## 💡 Concepts & Ideas
-
-### Domain-Specific LLM Concept  
-I have designed the concept for a domain-specific Transformer-based LLM, currently in the early stage of exploration.
-
-The idea focuses on:
-- a **decoder-centric architecture**,  
-- **transfer learning** on a specialized knowledge domain,  
-- and a **unique model identity** with a meaningful, original name that reflects its purpose and philosophy.
-
-This is still a conceptual project, but I’m excited by the idea of developing it collaboratively within a team, transforming it from a vision into a real, applied system that solves concrete problems.
-
----
-
 ## 🎯 What I'm Looking For
 
 I'm currently looking for **internships**
