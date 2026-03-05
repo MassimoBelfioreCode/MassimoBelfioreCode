@@ -1,12 +1,3 @@
----
-👤 # Hi, I'm Massimo Belfiore :)
----
-
-I'm a BSc Computer Science student from Catania with a strong interest in Big Data Analytics, Embedded Systems, Cloud Computing, and AI.
-I'm curious and I enjoy studying and learning new things.
-
----
-
 ## 💻 Main Projects
 
 - **MySQL Recipes Platform** — full relational database design plus a web page in php that shows the recipe of the day.
@@ -39,16 +30,3 @@ arduinoAudioProject:   https://fmilotta.github.io/teaching/computermusic20/Proje
 return 0;  //compile time error for sure, xD
   
 }
-
----
-
-## 🎯 What I'm Looking For
-
-I'm currently looking for **internships**
-
-I love environments where I can learn fast.
----
-
-## 📫 Contacts
-
-- **Email:** massimobelfiorechitarra@gmail.com
