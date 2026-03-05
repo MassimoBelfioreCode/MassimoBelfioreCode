@@ -20,7 +20,7 @@ I'm curious and I enjoy studying and learning new things.
 
 int main(int argc, char** argv){
 
-char message[] = "I know that goto instruction is dangerous, deprecated, is to be avoided in mission-critical code and means "Spaghetti Code" but let me use it as it fits good with this";
+char message[] = "I know that goto instruction is to be avoided in mission-critical code, dangerous, deprecated, and means "Spaghetti Code" but let me use it only now as it fits good with this";
     
 goto cplusplusProject;
 
