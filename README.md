@@ -3,7 +3,7 @@
 - **MySQL Italian Recipes Database** — full relational database design and implementation.
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM agent framework.  
-- **Arduino Spectrum Analyzer** — audio signal processing using microcontrollers.
+- **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with Microchip/ATmega microcontroller
 - **owwc-hub** — CRUD web app using web technologies.
 
 **You can find some of them in my pinned repositories, and the others at the following links**:
