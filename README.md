@@ -4,7 +4,7 @@
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with Microchip/ATmega328P MCU.
-- **owwc-hub** — CRUD web app design and development using web technologies.
+- **owwc-hub** — CRUD web app design and development using web technologies for e-sport competitions.
 
 **You can find some of them in my pinned repositories, and the others at the following links**:
 
