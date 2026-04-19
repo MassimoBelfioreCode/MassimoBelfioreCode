@@ -1,6 +1,6 @@
 ## 💻 Main Projects
 
-- **MySQL Italian Recipes Database** — full relational database design and implementation.
+- **MySQL Italian Recipes Database** — full relational database design and implementation with rich documentation.
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with Microchip/ATmega328P MCU.
