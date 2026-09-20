@@ -1,6 +1,6 @@
 ## 💻 Main Projects
 
-- **Intelligent Bus Parking Monitoring System** (computer vision internship project, private repository that can be consulted on request!).
+- **Intelligent Bus Parking Monitoring System** (computer vision internship project, private repo that can be consulted on request!).
 - **MySQL Italian Recipes Database** — full relational database design and implementation with rich documentation.
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU.
