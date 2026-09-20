@@ -1,5 +1,6 @@
 ## 💻 Main Projects
 
+- **Intelligent Bus Parking Monitoring System** (computer vision internship project, private repository that can be consulted on request!).
 - **MySQL Italian Recipes Database** — full relational database design and implementation with rich documentation.
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
