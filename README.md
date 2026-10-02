@@ -4,7 +4,7 @@
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU (group project).
 - **owwc-hub** — CRUD web app design and development using web technologies for e-sport competitions.
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
-- **MySQL Italian Recipes Database** — full relational database design and implementation with rich documentation.
+- **MySQL Italian Recipes Database** — full relational database design and implementation with documentation.
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 
 
