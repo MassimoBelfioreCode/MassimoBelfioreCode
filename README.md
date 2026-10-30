@@ -3,7 +3,7 @@
 - **Intelligent Bus Parking Monitoring System (IBPMS)** computer vision internship project. Private repo that can be consulted on request.
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU (group project).
 - **owwc-hub** — CRUD web app design and development using web technologies for e-sport competitions.
-- - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
+- **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
 - **MySQL Italian Recipes Database** — full relational database design and implementation with documentation.
 
