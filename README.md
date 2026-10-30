@@ -1,6 +1,6 @@
 ## 💻 Main Projects
 
-- **Intelligent Bus Parking Monitoring System (IBPMS)** Private repo that can be consulted on request (computer vision internship project).
+- **Intelligent Bus Parking Monitoring System (IBPMS)** — Private repo that can be consulted on request (computer vision internship project).
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU (group project). https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf , https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cb-2020-IT.pdf.
 - **owwc-hub** — CRUD web app design and development using web technologies for e-sport competitions.
 - **C++ Data Structures Collection** — custom implementations of lists, queues, and trees.
