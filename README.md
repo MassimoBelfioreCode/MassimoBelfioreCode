@@ -14,22 +14,13 @@
 
 int main(int argc, char** argv){
 
-char message[] = "I know that goto instruction is to be avoided in mission-critical code, dangerous, deprecated, and means "Spaghetti Code" but let me use it only now as it fits good with this";
-    
-goto cplusplusProject;
-
 std::cout << "Click on the links to see the projects\n";
 
-cplusplusProject:       https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode ;
+cplusplusProject[] = "https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode";
 
-std::cout << message;
+arduinoAudioProject[] = "https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf"; 
 
-goto arduinoAudioProject;
-
-std::cout << "\n";
-
-arduinoAudioProject:   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf ;
+std::cout << "\n";   
 
 return 0;  //compile time error for sure, xD
-  
 }
