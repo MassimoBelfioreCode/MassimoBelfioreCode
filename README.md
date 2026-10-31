@@ -16,7 +16,7 @@ int main(int argc, char** argv){
 
   std::cout << "Click on the links to see the projects\n";
   
-  cplusplusProject[] = "https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode";
+  cplusplusDataStructuresCollectionProject[] = "https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode";
   
   arduinoAudioProject[] = "https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf"; 
   
