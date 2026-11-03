@@ -11,21 +11,4 @@
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
 - **MySQL Italian Recipes Database** — full relational database design and implementation with documentation. **Keywords**: MySQL, PHP, SQL
 
-
 **You can find some of them in my pinned repositories, and the others at the following links**:
-
-#include <iostream<iostream>>
-
-int main(int argc, char** argv){
-
-  std::cout << "Click on the links to see the projects\n";
-  
-  cplusplusDataStructuresCollectionProject[] = "https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode";
-  
-  arduinoAudioProject[] = "https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf"; 
-  
-  std::cout << "\n";   
-  
-  return 0;  //compile time error for sure, xD
-  
-}
