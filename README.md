@@ -14,4 +14,4 @@
 - **Autogen 0.2 Seminar** — technical presentation on LLM multi-agent framework.  
 - **MySQL Italian Recipes Database** — full relational database design and implementation with documentation. **Keywords**: MySQL, PHP, SQL
 
-**You can find some of them in my pinned repositories, and the others at the following links**:
+**You can find some of them in my pinned repositories, and the others at the following links**
