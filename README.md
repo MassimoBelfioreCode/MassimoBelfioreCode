@@ -3,7 +3,7 @@
 ## 💻 Main Projects
 
 - **Intelligent Bus Parking Monitoring System (IBPMS)** — Private repo that can be consulted on request (computer vision internship project). **Keywords**: YOLO, Python, Object Detection, Multi-Object Tracking, SQL, Image Dataset Manual Annotation, Fine-Tuning, Software Eng.
-- **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU (group project).**Keywords**: Arduino, C, ADC, I2C, FFT, Hardware, Audio Processing.
+- **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU (group project). **Keywords**: C, Arduino, ADC, I2C, FFT, Hardware, Audio Processing.
 
   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cc-2020-IT.pdf
   
