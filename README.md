@@ -10,8 +10,7 @@
   
   https://fmilotta.github.io/teaching/computermusic20/Projects/ComputerMusic-Project-0Cb-2020-IT.pdf.
 - **owwc-hub 🎮** — CRUD web app design and development using web technologies for e-sports competitions. **Keywords**: Laravel, MySQL, Blade, HTML, CSS.
-- **C++ Coding-Contest Algorithms </>** — Implemented efficient C++ solutions for lab challenges, integrating multiple data structures (RB-Trees, Heaps, Graphs, Hash Tables) and algorithms using OOP principles and efficient memory management.
-- https://github.com/MassimoBelfioreCode/Coding-Contest-Algorithms-
+- **C++ Coding-Contest Algorithms </>** — Implemented efficient C++ solutions for lab challenges, integrating multiple data structures (RB-Trees, Heaps, Graphs, Hash Tables) and algorithms using OOP principles and efficient memory management. - https://github.com/MassimoBelfioreCode/Coding-Contest-Algorithms-
 - **C++ Data Structures Collection </>** — custom implementations of lists, queues, and trees in C++ programming language. "https://github.com/programmazione2-DMI/a-l-progetto-3-gruppo-2-MassimoBelfioreCode"
 - **Autogen 0.2 Seminar 🪄** — technical presentation on LLM multi-agent framework.  
 - **MySQL Italian Recipes Database 🛢️** — full relational database design and implementation with documentation. **Keywords**: MySQL, PHP, SQL
