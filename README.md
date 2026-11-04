@@ -1,6 +1,6 @@
 ## Hi, Welcome to Max Github!
 
-## 💻 Main Projects
+## 💻 Main Repositories and Projects
 
 - **Intelligent Bus Parking Monitoring System (IBPMS)** — Private repo that can be consulted on request (computer vision internship project). **Keywords**: YOLO, Python, Object Detection, Multi-Object Tracking, SQL, Image Dataset Manual Annotation, Fine-Tuning, Software Eng.
 - **Audio Spectrum Analyzer** — audio signal processing using Arduino UNO with ATmega328P MCU (group project). **Keywords**: Arduino, C/C++,
